@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Cookin2
-// @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  try to take over the world!
-// @author       You
+// @namespace    cookin
+// @version      0.5
+// @description  modify list
+// @author       Viggo Stenseth
 // @match        http://195.67.73.245/*
 // @grant        none
 // ==/UserScript==
