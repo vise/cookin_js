@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Cookin2
 // @namespace    cookin
-// @version      0.5
+// @version      1.1
 // @description  modify list
 // @author       Viggo Stenseth
 // @match        http://195.67.73.245/*
